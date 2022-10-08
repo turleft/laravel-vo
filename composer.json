@@ -1,0 +1,22 @@
+{
+    "name": "turleft/laravel-vo",
+    "autoload": {
+        "psr-4": {
+            "Turleft\\LaravelVo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "turleft",
+            "email": "867512099@qq.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3|^8.0",
+        "fruitcake/laravel-cors": "^2.0",
+        "guzzlehttp/guzzle": "^7.0.1",
+        "laravel/framework": "^8.75",
+        "laravel/sanctum": "^2.15",
+        "laravel/tinker": "^2.5"
+    }
+}
