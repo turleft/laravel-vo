@@ -2,7 +2,7 @@
     "name": "turleft/laravel-vo",
     "autoload": {
         "psr-4": {
-            "Turleft\\LaravelVo\\": "src/"
+            "LaravelVo\\": "src/"
         }
     },
     "authors": [
